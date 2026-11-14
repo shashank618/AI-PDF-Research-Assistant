@@ -1,3 +1,4 @@
+
 fastapi
 uvicorn[standard]
 python-multipart
@@ -6,3 +7,10 @@ python-dotenv
 pwdlib[argon2]
 PyJWT
 email-validator
+langchain
+langchain-text-splitters
+sentence-transformers
+chromadb
+ollama
+streamlit
+requests
